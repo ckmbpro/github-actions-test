@@ -5,4 +5,16 @@ active: true
 key:
   key: value
   key2: 33
+  key3:
+    key: value
+    key2: value
+array:
+  - item1
+  - item2
+  - key: value
+objectsArray:
+  - key: value
+    key2: value2
+longText: >
+  The quick brown fox jump over the lazy dog
   
